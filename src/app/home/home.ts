@@ -13,7 +13,7 @@ export class Home {
   readonly baseUrl = 'https://angular.dev/assets/images/tutorials/common';
   housingLocation: HousingLocationInfo = {
     id: 9999,
-    name: 'Test Home',
+    name: 'Test Homeps',
     city: 'Test city',
     state: 'ST',
     photo: `${this.baseUrl}/example-house.jpg`,
