@@ -6,10 +6,10 @@ export const routes: Routes = [
   {
     path: '',
     component: Home,
-    title: 'Home page',
+    title: 'Home Page',
   },
   {
-    path: 'details',
+    path: 'details/:id',
     component: Details,
     title: 'Home Details',
   },
